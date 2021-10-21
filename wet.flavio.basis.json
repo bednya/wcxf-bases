@@ -1686,7 +1686,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
       },
       "CR_bdnutaunue": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_e \\gamma_\\mu(1+\\gamma_5) \\nu_\\tau)"
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
       "CLp_bdnuenue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1+\\gamma_5) \\nu_e)"
