@@ -4258,6 +4258,247 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar s_R \gamma_\mu s_R)
     VnudLR_2333:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar b_R \gamma_\mu b_R)
+  ffnunuR:
+    VnueRL_1111:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar e_L \gamma_\mu e_L)
+    VnueRL_1122:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar \mu_L \gamma_\mu \mu_L)
+    VnueRL_1133:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar \tau_L \gamma_\mu \tau_L)
+    VnueRL_2211:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar e_L \gamma_\mu e_L)
+    VnueRL_2222:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar \mu_L \gamma_\mu \mu_L)
+    VnueRL_2233:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar \tau_L \gamma_\mu \tau_L)
+    VnueRL_3311:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar e_L \gamma_\mu e_L)
+    VnueRL_3322:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar \mu_L \gamma_\mu \mu_L)
+    VnueRL_3333:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar \tau_L \gamma_\mu \tau_L)
+    VnuuRL_1111:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR}) (\bar u_L \gamma_\mu u_L)
+    VnuuRL_1122:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR}) (\bar c_L \gamma_\mu c_L)
+    VnuuRL_2211:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R}) (\bar u_L \gamma_\mu u_L)
+    VnuuRL_2222:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R}) (\bar c_L \gamma_\mu c_L)
+    VnuuRL_3311:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R}) (\bar u_L \gamma_\mu u_L)
+    VnuuRL_3322:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R}) (\bar c_L \gamma_\mu c_L)
+    VnudRL_1111:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar d_L \gamma_\mu d_L)
+    VnudRL_1122:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar s_L \gamma_\mu s_L)
+    VnudRL_1133:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar b_L \gamma_\mu b_L)
+    VnudRL_2211:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar d_L \gamma_\mu d_L)
+    VnudRL_2222:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar s_L \gamma_\mu s_L)
+    VnudRL_2233:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar b_L \gamma_\mu b_L)
+    VnudRL_3311:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar d_L \gamma_\mu d_L)
+    VnudRL_3322:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar s_L \gamma_\mu s_L)
+    VnudRL_3333:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar b_L \gamma_\mu b_L)
+    VnueRR_1111:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar e_R \gamma_\mu e_R)
+    VnueRR_1122:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar \mu_R \gamma_\mu \mu_R)
+    VnueRR_1133:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar \tau_R \gamma_\mu \tau_R)
+    VnueRR_2211:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar e_R \gamma_\mu e_R)
+    VnueRR_2222:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar \mu_R \gamma_\mu \mu_R)
+    VnueRR_2233:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar \tau_R \gamma_\mu \tau_R)
+    VnueRR_3311:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar e_R \gamma_\mu e_R)
+    VnueRR_3322:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar \mu_R \gamma_\mu \mu_R)
+    VnueRR_3333:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar \tau_R \gamma_\mu \tau_R)
+    VnuuRR_1111:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar u_R \gamma_\mu u_R)
+    VnuuRR_1122:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar c_R \gamma_\mu c_R)
+    VnuuRR_2211:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar u_R \gamma_\mu u_R)
+    VnuuRR_2222:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar c_R \gamma_\mu c_R)
+    VnuuRR_3311:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar u_R \gamma_\mu u_R)
+    VnuuRR_3322:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar c_R \gamma_\mu c_R)
+    VnudRR_1111:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar d_R \gamma_\mu d_R)
+    VnudRR_1122:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar s_R \gamma_\mu s_R)
+    VnudRR_1133:
+      real: true
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{eR})(\bar b_R \gamma_\mu b_R)
+    VnudRR_2211:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar d_R \gamma_\mu d_R)
+    VnudRR_2222:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar s_R \gamma_\mu s_R)
+    VnudRR_2233:
+      real: true
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\mu R})(\bar b_R \gamma_\mu b_R)
+    VnudRR_3311:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar d_R \gamma_\mu d_R)
+    VnudRR_3322:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar s_R \gamma_\mu s_R)
+    VnudRR_3333:
+      real: true
+      tex: (\bar \nu_{\tau R} \gamma^\mu \nu_{\tau R})(\bar b_R \gamma_\mu b_R)
+    VnueRL_1211:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar e_L \gamma_\mu e_L)
+    VnueRL_1222:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar \mu_L \gamma_\mu \mu_L)
+    VnueRL_1233:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar \tau_L \gamma_\mu \tau_L)
+    VnuuRL_1211:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R}) (\bar u_L \gamma_\mu u_L)
+    VnuuRL_1222:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R}) (\bar c_L \gamma_\mu c_L)
+    VnudRL_1211:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar d_L \gamma_\mu d_L)
+    VnudRL_1222:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar s_L \gamma_\mu s_L)
+    VnudRL_1233:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar b_L \gamma_\mu b_L)
+    VnueRR_1211:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar e_R \gamma_\mu e_R)
+    VnueRR_1222:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar \mu_R \gamma_\mu \mu_R)
+    VnueRR_1233:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar \tau_R \gamma_\mu \tau_R)
+    VnuuRR_1211:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar u_R \gamma_\mu u_R)
+    VnuuRR_1222:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar c_R \gamma_\mu c_R)
+    VnudRR_1211:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar d_R \gamma_\mu d_R)
+    VnudRR_1222:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar s_R \gamma_\mu s_R)
+    VnudRR_1233:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\mu R})(\bar b_R \gamma_\mu b_R)
+    VnueRL_1311:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar e_L \gamma_\mu e_L)
+    VnueRL_1322:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar \mu_L \gamma_\mu \mu_L)
+    VnueRL_1333:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar \tau_L \gamma_\mu \tau_L)
+    VnuuRL_1311:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R}) (\bar u_L \gamma_\mu u_L)
+    VnuuRL_1322:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R}) (\bar c_L \gamma_\mu c_L)
+    VnudRL_1311:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar d_L \gamma_\mu d_L)
+    VnudRL_1322:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar s_L \gamma_\mu s_L)
+    VnudRL_1333:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar b_L \gamma_\mu b_L)
+    VnueRR_1311:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar e_R \gamma_\mu e_R)
+    VnueRR_1322:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar \mu_R \gamma_\mu \mu_R)
+    VnueRR_1333:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar \tau_R \gamma_\mu \tau_R)
+    VnuuRR_1311:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar u_R \gamma_\mu u_R)
+    VnuuRR_1322:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar c_R \gamma_\mu c_R)
+    VnudRR_1311:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar d_R \gamma_\mu d_R)
+    VnudRR_1322:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar s_R \gamma_\mu s_R)
+    VnudRR_1333:
+      tex: (\bar \nu_{eR} \gamma^\mu \nu_{\tau R})(\bar b_R \gamma_\mu b_R)
+    VnueRL_2311:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar e_L \gamma_\mu e_L)
+    VnueRL_2322:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar \mu_L \gamma_\mu \mu_L)
+    VnueRL_2333:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar \tau_L \gamma_\mu \tau_L)
+    VnuuRL_2311:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R}) (\bar u_L \gamma_\mu u_L)
+    VnuuRL_2322:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R}) (\bar c_L \gamma_\mu c_L)
+    VnudRL_2311:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar d_L \gamma_\mu d_L)
+    VnudRL_2322:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar s_L \gamma_\mu s_L)
+    VnudRL_2333:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar b_L \gamma_\mu b_L)
+    VnueRR_2311:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar e_R \gamma_\mu e_R)
+    VnueRR_2322:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar \mu_R \gamma_\mu \mu_R)
+    VnueRR_2333:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar \tau_R \gamma_\mu \tau_R)
+    VnuuRR_2311:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar u_R \gamma_\mu u_R)
+    VnuuRR_2322:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar c_R \gamma_\mu c_R)
+    VnudRR_2311:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar d_R \gamma_\mu d_R)
+    VnudRR_2322:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar s_R \gamma_\mu s_R)
+    VnudRR_2333:
+      tex: (\bar \nu_{\mu R} \gamma^\mu \nu_{\tau R})(\bar b_R \gamma_\mu b_R)
   uddnu:
     SuddLL_1111:
       tex: \epsilon_{\alpha\beta\gamma} (u_L^{\alpha T} C d_L^{\beta}) (d_L^{\gamma T} C \nu_{e L})
